@@ -1,0 +1,2 @@
+language = "java10"
+run = "cd src/main/java ; javac com/smc/ConsoleApp.java ; java com/smc/ConsoleApp"

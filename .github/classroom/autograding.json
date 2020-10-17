@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Basic Output",
+      "setup": "cd src/main/java ; javac com/smc/ConsoleApp.java",
+      "run": "cd src/main/java ; java com/smc/ConsoleApp",
+      "input": "",
+      "output": "Hello, World!",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
